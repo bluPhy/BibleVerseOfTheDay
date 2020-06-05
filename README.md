@@ -1,0 +1,2 @@
+# BibleVerseOfTheDay
+ Daily Bible verse
