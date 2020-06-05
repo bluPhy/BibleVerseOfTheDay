@@ -4,9 +4,9 @@ Bible verse of the Day Database
 ## Introduction
 
 This repository contains a *Bible verse of the day database*, intended to be used
-with programs like [my Python *fortune* program][],
-[my Go *fortune* program][], or the [BSD *fortune* program][].
-It contains more just a few (still working in it)
+with programs like [Brian's Python *fortune* program][],
+[Brian's Go *fortune* program][], or the [BSD *fortune* program][].
+It contains more just a few (still working on it)
 
 ## Files
 
@@ -14,7 +14,7 @@ It contains more just a few (still working in it)
 
 ---
 
-Alejandro Leal, [ale@bluphy.com][]
+Alejandro Leal, [ale@bluphy.com]
 
 [Brian's Python *fortune* program]: http://bmc.github.com/fortune/
 [Brian's Go *fortune* program]: https://github.com/bmc/fortune-go/
